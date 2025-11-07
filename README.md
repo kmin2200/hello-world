@@ -1,2 +1,2 @@
 # hello-world
-This repository is the practice for the github flow
+KHU SWCON201 HW#6: Hello-World via GitHub Nov.07.25 by Minjae Kim
